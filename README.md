@@ -1,6 +1,6 @@
 # TechFort Solutions
 
-![TechFort Logo](./your-image-file.png)
+
 
 **Founder & IT Solutions Architect**  
 📞 +233 246 875850  
